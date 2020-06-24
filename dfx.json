@@ -1,0 +1,14 @@
+{
+  "canisters": {
+    "degrees": {
+      "main":"src/Main.mo"
+    }
+  },
+  "defaults": {
+    "build": {
+      "output": "canisters/"
+    }
+  },
+  "dfx": "0.5.7",
+  "version": 1
+}
